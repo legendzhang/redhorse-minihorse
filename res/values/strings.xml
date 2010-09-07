@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小红马分享浏览器</string>
+    <string name="back">后退</string>
+    <string name="go">前进</string>
+    <string name="home">主页</string>
+    <string name="stop">停止</string>
+    <string name="downloadmanager">下载管理</string>
+    <string name="quit">退出程序</string>
+    <string name="yes">是的</string>
+    <string name="no">不是</string>
+    <string name="wanttoquit">你是要退出吗？</string>
+    <string name="onjsalert">Javascript对话框</string>
+    <string name="dialog_saveto">文件保存路径</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="addbookmark">添加书签</string>
+    <string name="bookmarks">我的书签</string>
+    <string name="refresh">刷新</string>
+    <string name="menu_bookmarks_delete">"删除"</string>
+    <string name="menu_bookmarks_edit">修改</string>
+    <string name="menu_bookmarks_open">打开</string>
+    <string name="text_longprese">对选中内容长按将弹出功能菜单</string>
+    <string name="info_downloading_finished">下载完成!</string>
+    <string name="menu_longprese_title">长按菜单</string>
+    <string name="info_addbookmark">成功添加书签</string>
+    <string name="info_about">本软件由张立军开发。任何问题email至：openplatform@sohu.com</string>
+    <string name="about">关于本软件</string>
+    <string name="setting">系统设置</string>
+    <string name="to_top">返回初始目录</string>
+    <string name="no_files">没有文件</string>
+    <string name="downloadfile">已下载文件</string>
+    <string name="select_dialog">选项</string>
+    <string name="newurl">打开新页面</string>
+    <string name="share">微博分享</string>
+    <string name="link_text_auto">
+    \n
+	  本软件由张立军开发。\n\n
+	邮件地址：\n
+	openplatform@sohu.com\n\n
+	新浪围脖：\n
+	http://t.sina.com.cn/redhorse4u\n\n
+	搜狐围脖：\n
+	http://t.sohu.com/legendzhang\n\n
+    </string>
+</resources>

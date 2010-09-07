@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>打开</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="select_dialog_shareimage">
+        <item>微博：分享页面</item>
+        <item>微博：分享图片</item>
+        <item>系统：分享页面</item>
+        <item>图片：保存到本地</item>
+        <item>页面：以图片保存</item>
+        <item>图片：保存为壁纸</item>
+    </string-array>
+</resources>
